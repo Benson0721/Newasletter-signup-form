@@ -78,6 +78,7 @@ export default function ContentBox({ setSuccess, success }) {
                 errors.email ? "form__email-item--error" : ""
               }`}
               placeholder="email@company.com"
+              id="email"
             />
             <button
               type="submit"

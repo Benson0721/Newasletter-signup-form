@@ -8,15 +8,15 @@ export default function Form() {
       {!success ? (
         <picture className="form__image">
           <source
-            srcSet="../images/illustration-sign-up-desktop.svg"
+            srcSet="./images/illustration-sign-up-desktop.svg"
             media="(min-width: 1440px)"
           />
           <source
-            srcSet="../images/illustration-sign-up-desktop.svg"
+            srcSet="./images/illustration-sign-up-desktop.svg"
             media="(min-width: 768px)"
           />
           <img
-            src="../images/illustration-sign-up-mobile.svg"
+            src="./images/illustration-sign-up-mobile.svg"
             alt="sign-up-image"
           />
         </picture>
