@@ -28,14 +28,14 @@ Users should be able to:
 ### Screenshot
 
 -Desktop
-![](./screenshot_desktop.jepg)
-![](./screenshot_desktop_success.jepg)
+![](./screenshot_desktop.jpeg)
+![](./screenshot_desktop_success.jpeg)
 -Mobile
-![](./screenshot_mobile.jepg)
-![](./screenshot_mobile_success.jepg)
+![](./screenshot_mobile.jpeg)
+![](./screenshot_mobile_success.jpeg)
 -tablet
-![](./screenshot_tablet.jepg)
-![](./screenshot_tablet_success.jepg)
+![](./screenshot_tablet.jpeg)
+![](./screenshot_tablet_success.jpeg)
 -validation and active
 ![](./validation_and_active.gif)
 
