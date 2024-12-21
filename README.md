@@ -30,12 +30,15 @@ Users should be able to:
 -Desktop
 ![](./screenshot_desktop.jpeg)
 ![](./screenshot_desktop_success.jpeg)
+
 -Mobile
 ![](./screenshot_mobile.jpeg)
 ![](./screenshot_mobile_success.jpeg)
+
 -tablet
 ![](./screenshot_tablet.jpeg)
 ![](./screenshot_tablet_success.jpeg)
+
 -validation and active
 ![](./validation_and_active.gif)
 
